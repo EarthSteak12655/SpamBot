@@ -15,7 +15,7 @@
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "",
+        "value": "14447155",
         "required": true
       },
       "ALIVE_PIC": {
@@ -25,7 +25,7 @@
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "",
+        "value": "ef370b85866716be28c348f5f96db1e4",
         "required": true
       },
      "CMD_HNDLR": {
@@ -35,62 +35,62 @@
         },
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5565238377:AAHWkmscFaoNa38wtKVUH19h5m6Vk47uqkk",
         "required": true
       },
       "BOT_TOKEN2": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "5447129751:AAGs09xcaLNtOxOXu4qn1Fks8X-ZkJrUiUE",
         "required": true
       },
       "BOT_TOKEN3": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN4": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN5": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN6": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN7": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN8": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN9": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN10": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "",
-            "required": false
+            "value": "5485497872 5366655936 5442143084",
+            "required": true
         },
       "OWNER_ID": {
             "description": "owner Id",
-            "value": "",
+            "value": "5442143084",
             "required": true
         },
         "HEROKU_API_KEY": {
